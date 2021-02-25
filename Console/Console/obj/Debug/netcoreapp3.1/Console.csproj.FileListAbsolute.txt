@@ -1,0 +1,10 @@
+/Users/johnson_marcus/git/CSharp/Console/Console/bin/Debug/netcoreapp3.1/Console.deps.json
+/Users/johnson_marcus/git/CSharp/Console/Console/bin/Debug/netcoreapp3.1/Console.runtimeconfig.json
+/Users/johnson_marcus/git/CSharp/Console/Console/bin/Debug/netcoreapp3.1/Console.runtimeconfig.dev.json
+/Users/johnson_marcus/git/CSharp/Console/Console/bin/Debug/netcoreapp3.1/Console.dll
+/Users/johnson_marcus/git/CSharp/Console/Console/bin/Debug/netcoreapp3.1/Console.pdb
+/Users/johnson_marcus/git/CSharp/Console/Console/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache
+/Users/johnson_marcus/git/CSharp/Console/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache
+/Users/johnson_marcus/git/CSharp/Console/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs
+/Users/johnson_marcus/git/CSharp/Console/Console/obj/Debug/netcoreapp3.1/Console.dll
+/Users/johnson_marcus/git/CSharp/Console/Console/obj/Debug/netcoreapp3.1/Console.pdb

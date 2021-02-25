@@ -1,0 +1,12 @@
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/bin/Debug/netcoreapp3.1/FormExample.deps.json
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/bin/Debug/netcoreapp3.1/FormExample.runtimeconfig.json
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/bin/Debug/netcoreapp3.1/FormExample.runtimeconfig.dev.json
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/bin/Debug/netcoreapp3.1/FormExample.dll
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/bin/Debug/netcoreapp3.1/FormExample.pdb
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.csprojAssemblyReference.cache
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.AssemblyInfoInputs.cache
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.AssemblyInfo.cs
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.csproj.CoreCompileInputs.cache
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.dll
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.pdb
+/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/Debug/netcoreapp3.1/FormExample.genruntimeconfig.cache

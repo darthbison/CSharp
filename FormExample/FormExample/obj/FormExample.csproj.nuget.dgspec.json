@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/johnson_marcus/git/CSharp/FormExample/FormExample/FormExample.csproj": {}
+  },
+  "projects": {
+    "/Users/johnson_marcus/git/CSharp/FormExample/FormExample/FormExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/johnson_marcus/git/CSharp/FormExample/FormExample/FormExample.csproj",
+        "projectName": "FormExample",
+        "projectPath": "/Users/johnson_marcus/git/CSharp/FormExample/FormExample/FormExample.csproj",
+        "packagesPath": "/Users/johnson_marcus/.nuget/packages/",
+        "outputPath": "/Users/johnson_marcus/git/CSharp/FormExample/FormExample/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/johnson_marcus/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
